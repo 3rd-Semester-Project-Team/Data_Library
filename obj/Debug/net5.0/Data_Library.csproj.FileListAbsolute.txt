@@ -1,0 +1,13 @@
+D:\Zealand\SEMESTERS\3RD SEMESTER\.Projects\Final Project\Data_Library\bin\Debug\net5.0\Data_Library.deps.json
+D:\Zealand\SEMESTERS\3RD SEMESTER\.Projects\Final Project\Data_Library\bin\Debug\net5.0\Data_Library.dll
+D:\Zealand\SEMESTERS\3RD SEMESTER\.Projects\Final Project\Data_Library\bin\Debug\net5.0\ref\Data_Library.dll
+D:\Zealand\SEMESTERS\3RD SEMESTER\.Projects\Final Project\Data_Library\bin\Debug\net5.0\Data_Library.pdb
+D:\Zealand\SEMESTERS\3RD SEMESTER\.Projects\Final Project\Data_Library\bin\Debug\net5.0\Data_Library.xml
+D:\Zealand\SEMESTERS\3RD SEMESTER\.Projects\Final Project\Data_Library\obj\Debug\net5.0\Data_Library.csproj.AssemblyReference.cache
+D:\Zealand\SEMESTERS\3RD SEMESTER\.Projects\Final Project\Data_Library\obj\Debug\net5.0\Data_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zealand\SEMESTERS\3RD SEMESTER\.Projects\Final Project\Data_Library\obj\Debug\net5.0\Data_Library.AssemblyInfoInputs.cache
+D:\Zealand\SEMESTERS\3RD SEMESTER\.Projects\Final Project\Data_Library\obj\Debug\net5.0\Data_Library.AssemblyInfo.cs
+D:\Zealand\SEMESTERS\3RD SEMESTER\.Projects\Final Project\Data_Library\obj\Debug\net5.0\Data_Library.csproj.CoreCompileInputs.cache
+D:\Zealand\SEMESTERS\3RD SEMESTER\.Projects\Final Project\Data_Library\obj\Debug\net5.0\Data_Library.dll
+D:\Zealand\SEMESTERS\3RD SEMESTER\.Projects\Final Project\Data_Library\obj\Debug\net5.0\ref\Data_Library.dll
+D:\Zealand\SEMESTERS\3RD SEMESTER\.Projects\Final Project\Data_Library\obj\Debug\net5.0\Data_Library.pdb

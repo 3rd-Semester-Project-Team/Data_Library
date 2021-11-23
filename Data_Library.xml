@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Data_Library</name>
+    </assembly>
+    <members>
+        <member name="T:Data_Library.ParkingPlace">
+            <summary>
+            Defines the info of a parking slot
+            </summary>
+        </member>
+        <member name="P:Data_Library.ParkingPlace.SensorId">
+            <summary>
+            Id of the sensor
+            </summary>
+        </member>
+        <member name="P:Data_Library.ParkingPlace.ParkingId">
+            <summary>
+            Id of the Parking slot
+            </summary>
+        </member>
+        <member name="P:Data_Library.ParkingPlace.SensorDateTime">
+            <summary>
+            Time when the state of Occupied (boolean) is changed
+            </summary>
+        </member>
+        <member name="P:Data_Library.ParkingPlace.Occupied">
+            <summary>
+            States if a parking slot is taken or not
+            </summary>
+        </member>
+    </members>
+</doc>
