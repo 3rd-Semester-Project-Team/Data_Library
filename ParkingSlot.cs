@@ -5,7 +5,7 @@ namespace Data_Library
     /// <summary>
     /// Defines the info of a parking slot
     /// </summary>
-    public class ParkingPlace
+    public class ParkingSlot
     {
         /// <summary>
         /// Id of the sensor
